@@ -8,7 +8,30 @@ import Preview from './Preview';
 import logo from '../assets/logo.png';
 
 class App extends React.Component {
+  state = {
+    isAllowed: false
+  }
+  
+  componentDidMount() {
+    if (this.checkValidity()) {
+      this.setState({ isAllowed: true })
+    }
+  }
+
+  checkValidity() {
+    const searchParams = window.location.search.substr(1);
+    const paramArray = searchParams.split('=');
+
+    console.log(paramArray)
+
+    return paramArray[0] === 'auth' && paramArray[1] === '911223f9c169df06ba3eadb6a8f42564c9170237';
+  }
+
   render() {
+    if (!this.state.isAllowed) {
+      return null;
+    }
+
     return (
       <div className="App">
         <Formik
