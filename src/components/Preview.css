@@ -1,0 +1,7 @@
+.preview-inner h2 {
+    margin-top: 0;
+}
+
+.preview-inner .qrcode-container {
+    display: none;
+}
