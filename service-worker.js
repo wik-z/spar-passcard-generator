@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spar-passcard-generator/precache-manifest.6c2aed13f59851ad43d0d6a1de8a7005.js"
+  "/spar-passcard-generator/precache-manifest.6478eceeaca73add6a1d64da861ea553.js"
 );
 
 self.addEventListener('message', (event) => {

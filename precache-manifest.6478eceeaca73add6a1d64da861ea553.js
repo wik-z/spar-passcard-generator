@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b87b30cc5fa22bc3b2a523bc6dead3ed",
+    "revision": "a6b289320f153bf22f1e0083730f2b67",
     "url": "/spar-passcard-generator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spar-passcard-generator/static/css/2.e61fc129.chunk.css"
   },
   {
-    "revision": "ddb4d9acce83540b4d1e",
+    "revision": "adba6ef4ddf7a39bf2f7",
     "url": "/spar-passcard-generator/static/css/main.d3ed2bbc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spar-passcard-generator/static/js/2.0bbf45c5.chunk.js"
   },
   {
-    "revision": "ddb4d9acce83540b4d1e",
-    "url": "/spar-passcard-generator/static/js/main.1bc42b94.chunk.js"
+    "revision": "adba6ef4ddf7a39bf2f7",
+    "url": "/spar-passcard-generator/static/js/main.d5d5688c.chunk.js"
   },
   {
     "revision": "34d14edb99604180f8ed",
