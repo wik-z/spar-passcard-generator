@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spar-passcard-generator/static/css/main.d3ed2bbc.chunk.css",
-    "main.js": "/spar-passcard-generator/static/js/main.97b5f332.chunk.js",
-    "main.js.map": "/spar-passcard-generator/static/js/main.97b5f332.chunk.js.map",
+    "main.js": "/spar-passcard-generator/static/js/main.1bc42b94.chunk.js",
+    "main.js.map": "/spar-passcard-generator/static/js/main.1bc42b94.chunk.js.map",
     "runtime-main.js": "/spar-passcard-generator/static/js/runtime-main.d69e6e26.js",
     "runtime-main.js.map": "/spar-passcard-generator/static/js/runtime-main.d69e6e26.js.map",
     "static/css/2.e61fc129.chunk.css": "/spar-passcard-generator/static/css/2.e61fc129.chunk.css",
     "static/js/2.0bbf45c5.chunk.js": "/spar-passcard-generator/static/js/2.0bbf45c5.chunk.js",
     "static/js/2.0bbf45c5.chunk.js.map": "/spar-passcard-generator/static/js/2.0bbf45c5.chunk.js.map",
     "index.html": "/spar-passcard-generator/index.html",
-    "precache-manifest.809df0a73c69d9f44d523022b5d61d51.js": "/spar-passcard-generator/precache-manifest.809df0a73c69d9f44d523022b5d61d51.js",
+    "precache-manifest.6c2aed13f59851ad43d0d6a1de8a7005.js": "/spar-passcard-generator/precache-manifest.6c2aed13f59851ad43d0d6a1de8a7005.js",
     "service-worker.js": "/spar-passcard-generator/service-worker.js",
     "static/css/2.e61fc129.chunk.css.map": "/spar-passcard-generator/static/css/2.e61fc129.chunk.css.map",
     "static/css/main.d3ed2bbc.chunk.css.map": "/spar-passcard-generator/static/css/main.d3ed2bbc.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.e61fc129.chunk.css",
     "static/js/2.0bbf45c5.chunk.js",
     "static/css/main.d3ed2bbc.chunk.css",
-    "static/js/main.97b5f332.chunk.js"
+    "static/js/main.1bc42b94.chunk.js"
   ]
 }
