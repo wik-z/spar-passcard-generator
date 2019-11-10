@@ -22,8 +22,6 @@ class App extends React.Component {
     const searchParams = window.location.search.substr(1);
     const paramArray = searchParams.split('=');
 
-    console.log(paramArray)
-
     return paramArray[0] === 'auth' && paramArray[1] === '911223f9c169df06ba3eadb6a8f42564c9170237';
   }
 
